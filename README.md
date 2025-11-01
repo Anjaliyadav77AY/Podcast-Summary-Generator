@@ -25,6 +25,6 @@ The **Podcast Summary Generator** is an AI-based tool that automatically generat
 
 
 ## 🚀 How to Run
-1. Clone the repository:
+1. Clone the repository:https://github.com/Anjaliyadav77AY/Podcast-Summary-Generator.git
 2. Run Streamlit app: streamlit run app.py
    
